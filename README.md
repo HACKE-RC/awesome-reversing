@@ -89,7 +89,7 @@ Other resources:
 - [https://www.cynet.com/attack-techniques-hands-on/malware-anti-vm-techniques/](https://www.cynet.com/attack-techniques-hands-on/malware-anti-vm-techniques/)
 - [https://www.youtube.com/watch?v=5NO-W3SVjak&feature=emb_title](https://www.youtube.com/watch?v=5NO-W3SVjak&feature=emb_title)
 
-##Windows Research
+## Windows Research
 
 If you want to get into Windows Research, then you need to learn Windows Internals.
 
