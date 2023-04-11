@@ -1,5 +1,17 @@
 
-# Reverse Engineering Resources
+# Resource Engineering Resources ⚡
+- [Assembly](#assembly)
+  * [Linux specific](#linux-specific)
+  * [Windows specific](#windows-specific)
+  * [Miscellaneous](#miscellaneous)
+- [Assembly Projects](#assembly-projects)
+- [Getting started](#getting-started)
+- [Getting your hands dirty](#getting-your-hands-dirty)
+- [Deobfuscation](#deobfuscation)
+- [Anti-debug and Anti-analysis](#anti-debug-and-anti-analysis)
+- [Anti-analysis](#anti-analysis)
+- [Great blogs on Windows Internals](#great-blogs-on-windows-internals)
+- [Others](#others)
 
 ## Assembly
 
@@ -33,7 +45,7 @@ Other resources:
 - [https://raw.githubusercontent.com/tuhdo/os01/master/Operating_Systems_From_0_to_1.pdf…](https://t.co/DVEhkoO2W8)
 - [https://cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf…](https://t.co/CAkmVoix6C)
 
-### Getting started
+## Getting started
 
 - [https://www.begin.re](https://www.begin.re/)
 - [https://artik.blue/reversing](https://artik.blue/reversing)
@@ -43,7 +55,7 @@ Other resources:
 - [https://www.youtube.com/watch?v=d4Pgi5XML8E](https://www.youtube.com/watch?v=d4Pgi5XML8E)
 - [https://www.youtube.com/watch?v=9vKG8-TnawY](https://www.youtube.com/watch?v=9vKG8-TnawY) (Recommended)
 
-### Getting your hands dirty
+## Getting your hands dirty
 
 - [https://crackmes.one](https://crackmes.one/)
 - [http://reversing.kr/challenge.php](http://reversing.kr/challenge.php)
@@ -51,7 +63,7 @@ Other resources:
 - [http://reversing.kr/challenge.php](http://reversing.kr/challenge.php)
 - [https://0x00sec.org/t/challenge-collection-reverse-engineering-and-crackme/3027](https://0x00sec.org/t/challenge-collection-reverse-engineering-and-crackme/3027)
 
-### Deobfuscation
+## Deobfuscation
 
 - [https://www.vadesecure.com/en/blog/malware-analysis-understanding-code-obfuscation-techniques](https://www.vadesecure.com/en/blog/malware-analysis-understanding-code-obfuscation-techniques)
 - [https://www.youtube.com/watch?v=bEsQ8UYioU4](https://www.youtube.com/watch?v=bEsQ8UYioU4)
@@ -62,7 +74,7 @@ Other resources:
 - [https://www.youtube.com/watch?v=EdchPEHnohw](https://www.youtube.com/watch?v=EdchPEHnohw)
 - [https://www.youtube.com/playlist?list=PLynb9SXC4yER8NinXJwV4GHUM9-jaIsN_](https://www.youtube.com/playlist?list=PLynb9SXC4yER8NinXJwV4GHUM9-jaIsN_)
 
-### Anti-debug & Anti-analysis
+## Anti-debug and Anti-analysis
 
 - [https://iopscience.iop.org/article/10.1088/1742-6596/1744/4/042186/pdf](https://iopscience.iop.org/article/10.1088/1742-6596/1744/4/042186/pdf)
 - [https://wikileaks.org/vault7/document/2015-07-PoC-Anti_Debugging_and_Anti_Emulation/2015-07-PoC-Anti_Debugging_and_Anti_Emulation.pdf](https://wikileaks.org/vault7/document/2015-07-PoC-Anti_Debugging_and_Anti_Emulation/2015-07-PoC-Anti_Debugging_and_Anti_Emulation.pdf)
@@ -70,14 +82,14 @@ Other resources:
 - [https://anti-debug.checkpoint.com/](https://anti-debug.checkpoint.com/)
 - [https://www.youtube.com/watch?v=WlE8abc8V-4&feature=emb_title](https://www.youtube.com/watch?v=WlE8abc8V-4&feature=emb_title)
 
-### Anti-analysis
+## Anti-analysis
 
 - [https://www.malwarebytes.com/blog/news/2014/09/five-anti-debugging-tricks-that-sometimes-fool-analysts](https://www.malwarebytes.com/blog/news/2014/09/five-anti-debugging-tricks-that-sometimes-fool-analysts)
 - [https://www.oic-cert.org/en/download/Anti-Analysis techniques (OIC Talk).pdf](https://www.oic-cert.org/en/download/Anti-Analysis%20techniques%20(OIC%20Talk).pdf)
 - [https://www.cynet.com/attack-techniques-hands-on/malware-anti-vm-techniques/](https://www.cynet.com/attack-techniques-hands-on/malware-anti-vm-techniques/)
 - [https://www.youtube.com/watch?v=5NO-W3SVjak&feature=emb_title](https://www.youtube.com/watch?v=5NO-W3SVjak&feature=emb_title)
 
-### Windows Research
+##Windows Research
 
 If you want to get into Windows Research, then you need to learn Windows Internals.
 
@@ -103,7 +115,7 @@ If you want to get into Windows Research, then you need to learn Windows Interna
 - [https://www.i.u-tokyo.ac.jp/edu/training/ss/lecture/new-documents/Lectures/03-ThreadScheduling/ThreadScheduling.pdf](https://www.i.u-tokyo.ac.jp/edu/training/ss/lecture/new-documents/Lectures/03-ThreadScheduling/ThreadScheduling.pdf) - Thread Scheduling Windows
 - [https://codemachine.com/articles/kernel_callback_functions.html](https://codemachine.com/articles/kernel_callback_functions.html) - Kernel Callback Functions
 
-### Great blogs on Windows Internals
+## Great blogs on Windows Internals
 
 - [https://secret.club](https://secret.club/)
 - [wumb0.in](https://t.co/TQttGxnkVF)
@@ -114,7 +126,7 @@ If you want to get into Windows Research, then you need to learn Windows Interna
 - [https://www.tiraniddo.dev](https://www.tiraniddo.dev/)
 - [https://googleprojectzero.blogspot.com](https://googleprojectzero.blogspot.com/)
 
-### Others
+## Others
 
 - [https://www.msreverseengineering.com/blog/2014/6/23/compiler-optimizations-for-reverse-engineers](https://www.msreverseengineering.com/blog/2014/6/23/compiler-optimizations-for-reverse-engineers) - Compiler Optimizations for Reverse Engineers.
 - [https://versprite.com/blog/security-research/reverse-engineering-undocumented-structures/](https://versprite.com/blog/security-research/reverse-engineering-undocumented-structures/) - Reversing Stories: Updating the Undocumented ESTROBJ and STROBJ Structures for Windows 10 x64.
