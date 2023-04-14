@@ -114,6 +114,7 @@ If you want to get into Windows Research, then you need to learn Windows Interna
 - [http://terminus.rewolf.pl/terminus/](http://terminus.rewolf.pl/terminus/) - Automatically generated diff of Windows structures
 - [https://www.i.u-tokyo.ac.jp/edu/training/ss/lecture/new-documents/Lectures/03-ThreadScheduling/ThreadScheduling.pdf](https://www.i.u-tokyo.ac.jp/edu/training/ss/lecture/new-documents/Lectures/03-ThreadScheduling/ThreadScheduling.pdf) - Thread Scheduling Windows
 - [https://codemachine.com/articles/kernel_callback_functions.html](https://codemachine.com/articles/kernel_callback_functions.html) - Kernel Callback Functions
+- http://likeagod.revers.engineering - decompilation of NT API functions.
 
 ## Great blogs on Windows Internals
 
