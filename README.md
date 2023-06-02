@@ -11,6 +11,7 @@
 - [Deobfuscation](#deobfuscation)
 - [Anti-debug and Anti-analysis](#anti-debug-and-anti-analysis)
 - [Anti-analysis](#anti-analysis)
+- [C++ Reversing](#c-reversing)
 - [Great blogs on Windows Internals](#great-blogs-on-windows-internals)
 - [Others](#others)
 
@@ -89,6 +90,10 @@ I have wrote a blog on this topic, [here](https://de-engineer.github.io/Understa
 - [https://www.oic-cert.org/en/download/Anti-Analysis techniques (OIC Talk).pdf](https://www.oic-cert.org/en/download/Anti-Analysis%20techniques%20(OIC%20Talk).pdf)
 - [https://www.cynet.com/attack-techniques-hands-on/malware-anti-vm-techniques/](https://www.cynet.com/attack-techniques-hands-on/malware-anti-vm-techniques/)
 - [https://www.youtube.com/watch?v=5NO-W3SVjak&feature=emb_title](https://www.youtube.com/watch?v=5NO-W3SVjak&feature=emb_title)
+
+## C++ Reversing
+- [Reversing C++ Virtual Functions](https://alschwalm.com/blog/static/2016/12/17/reversing-c-virtual-functions/)
+- [Reversing C++](https://www.blackhat.com/presentations/bh-dc-07/Sabanal_Yason/Paper/bh-dc-07-Sabanal_Yason-WP.pdf)
 
 ## Windows Research
 
