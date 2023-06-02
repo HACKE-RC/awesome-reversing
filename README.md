@@ -26,7 +26,7 @@
 - [https://sonictk.github.io/asm_tutorial/](https://sonictk.github.io/asm_tutorial/)
 
 ### Miscellaneous
-
+- [https://www.youtube.com/playlist?list=PLmbPuZ0NsyGS8ef6zaHd2qYylzsHxL63x](https://www.youtube.com/playlist?list=PLmbPuZ0NsyGS8ef6zaHd2qYylzsHxL63x)
 - [https://www.felixcloutier.com/x86/index.html](https://www.felixcloutier.com/x86/index.html)
 - [https://cs.lmu.edu/~ray/notes/x86assembly/](https://cs.lmu.edu/~ray/notes/x86assembly/)
 - [https://godbolt.org](https://godbolt.org/)
