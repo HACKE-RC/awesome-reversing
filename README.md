@@ -4,6 +4,7 @@
   * [Linux specific](#linux-specific)
   * [Windows specific](#windows-specific)
   * [Miscellaneous](#miscellaneous)
+- [Operating System Internals](#operating-system-internals)
 - [Assembly Projects](#assembly-projects)
 - [Getting started](#getting-started)
 - [Getting your hands dirty](#getting-your-hands-dirty)
@@ -31,22 +32,19 @@
 - [https://godbolt.org](https://godbolt.org/)
 - [https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1/about](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1/about)
 
-## Operating System Internals
-- [https://www.youtube.com/playlist?list=PLmbPuZ0NsyGS8ef6zaHd2qYylzsHxL63x](https://www.youtube.com/playlist?list=PLmbPuZ0NsyGS8ef6zaHd2qYylzsHxL63x)
-- [https://www.youtube.com/playlist?list=PLgre7dUq8DGKbtnlMuJPvPYlvLdXOC9uh](https://www.youtube.com/playlist?list=PLgre7dUq8DGKbtnlMuJPvPYlvLdXOC9uh)
-
 ## Assembly Projects
 
 After learning assembly, you can try some projects like making a bootloader or a whole simple Operating System.
-I have wrote a blog on this topic, here:
+I have wrote a blog on this topic, [here](https://de-engineer.github.io/Understanding-booting-process-and-writing-own-os/).
+- [http://brokenthorn.com/Resources/OSDev1.html](http://brokenthorn.com/Resources/OSDev1.html)
+- [https://raw.githubusercontent.com/tuhdo/os01/master/Operating_Systems_From_0_to_1.pdf](ttps://raw.githubusercontent.com/tuhdo/os01/master/Operating_Systems_From_0_to_1.pdf)
+- [https://cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf](https://cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
 
-- [https://de-engineer.github.io/Understanding-booting-process-and-writing-own-os/](https://de-engineer.github.io/Understanding-booting-process-and-writing-own-os/)
 
-Other resources:
-
-- [http://brokenthorn.com/Resources/OSDev1.html](https://t.co/Y0GEUDbYKP)
-- [https://raw.githubusercontent.com/tuhdo/os01/master/Operating_Systems_From_0_to_1.pdf…](https://t.co/DVEhkoO2W8)
-- [https://cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf…](https://t.co/CAkmVoix6C)
+## Operating System Internals
+- [https://www.youtube.com/playlist?list=PLmbPuZ0NsyGS8ef6zaHd2qYylzsHxL63x](https://www.youtube.com/playlist?list=PLmbPuZ0NsyGS8ef6zaHd2qYylzsHxL63x)
+- [https://www.youtube.com/playlist?list=PLgre7dUq8DGKbtnlMuJPvPYlvLdXOC9uh](https://www.youtube.com/playlist?list=PLgre7dUq8DGKbtnlMuJPvPYlvLdXOC9uh)
+- [https://pages.cs.wisc.edu/~remzi/OSTEP/](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 ## Getting started
 
