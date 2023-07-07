@@ -1,4 +1,3 @@
-
 # Resource Engineering Resources ⚡
 - [Assembly](#assembly)
   * [Linux specific](#linux-specific)
@@ -14,6 +13,7 @@
 - [C++ Reversing](#c-reversing)
 - [Great blogs on Windows Internals](#great-blogs-on-windows-internals)
 - [Others](#others)
+- [Symbolic Execution](#symbolic-execution)
 
 ## Assembly
 
@@ -140,3 +140,6 @@ If you want to get into Windows Research, then you need to learn Windows Interna
 - [https://posts.specterops.io/methodology-for-static-reverse-engineering-of-windows-kernel-drivers-3115b2efed83](https://posts.specterops.io/methodology-for-static-reverse-engineering-of-windows-kernel-drivers-3115b2efed83) - Methodology for static Reverse Engineering of Windows Kernel Drivers.
 - [https://unit42.paloaltonetworks.com/what-i-learned-from-reverse-engineering-windows-containers/](https://unit42.paloaltonetworks.com/what-i-learned-from-reverse-engineering-windows-containers/) - What I have learned from Reverse Engineering Windows Containers.
 - [https://alice.climent-pommeret.red/posts/a-syscall-journey-in-the-windows-kernel/](https://alice.climent-pommeret.red/posts/a-syscall-journey-in-the-windows-kernel/) - A Syscall Journey in the Windows Kernel
+
+## Symbolic Execution
+- https://sat-smt.codes/SAT_SMT_by_example.pdf
