@@ -143,3 +143,4 @@ If you want to get into Windows Research, then you need to learn Windows Interna
 
 ## Symbolic Execution
 - https://sat-smt.codes/SAT_SMT_by_example.pdf
+- [Youtube video covering the basics of z3](https://www.youtube.com/watch?v=kZd1Hi0ZBYc)
