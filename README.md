@@ -64,6 +64,8 @@ I have wrote a blog on this topic, [here](https://de-engineer.github.io/Understa
 - [https://github.com/Maijin/radare2-workshop-2015/tree/master/IOLI-crackme](https://github.com/Maijin/radare2-workshop-2015/tree/master/IOLI-crackme)
 - [http://reversing.kr/challenge.php](http://reversing.kr/challenge.php)
 - [https://0x00sec.org/t/challenge-collection-reverse-engineering-and-crackme/3027](https://0x00sec.org/t/challenge-collection-reverse-engineering-and-crackme/3027)
+- [Youtube playlist on Malware Analysis](https://www.youtube.com/watch?v=n06QSoICU6c&list=PLt9cUwGw6CYG2DSfjXEE3GotkQDa5b-6s)
+- [Binary Analysis Free Course](https://maxkersten.nl/binary-analysis-course/)
 
 ## Deobfuscation
 
