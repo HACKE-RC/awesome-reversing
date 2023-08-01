@@ -101,23 +101,23 @@ I have wrote a blog on this topic, [here](https://de-engineer.github.io/Understa
 
 If you want to get into Windows Research, then you need to learn Windows Internals.
 
-- https://de-engineer.github.io - My blog on Windows Internals.
-- [learn.microsoft.com/en-us/sysinter…](https://learn.microsoft.com/en-us/sysinternals/resources/windows-internals) - Book on Windows Internals published by MS. Use it like a reference to learn about specific topics when needed.
-- [pluralsight.com/authors/pavel-…](https://www.pluralsight.com/authors/pavel-yosifovich) - has the best video courses.
-- https://www.youtube.com/watch?v=4AkzIbmI3q4&feature=emb_title - Windows Process Internals.
-- https://samsclass.info/140/lec/Excerpted-PRE07_Solomon.pdf - Windows Internals Overview.
-- https://vimeo.com/49347561 - Intro to Windows Internals.
+- [My blog on Windows Internals](https://de-engineer.github.io)
+- [Book on Windows Internals published by MS. Use it like a reference to learn about specific topics when needed](https://learn.microsoft.com/en-us/sysinternals/resources/windows-internals)
+- [Has the best video courses](https://www.pluralsight.com/authors/pavel-yosifovich)
+- [Windows Process Internals](https://www.youtube.com/watch?v=4AkzIbmI3q4&feature=emb_title)
+- [Windows Internals Overview](https://samsclass.info/140/lec/Excerpted-PRE07_Solomon.pdf)
+- [Intro to Windows Internals](https://vimeo.com/49347561)
 - [Win32 programming with code examples](https://installsetupconfig.com/win32programming)
-- [https://caiorss.github.io/C-Cpp-Notes/WindowsAPI-cpp.html…](https://t.co/K5gcQZ8dUZ) - Notes for Windows API programming.
-- [http://undoc.airesoft.co.uk](https://t.co/LhHmRJ4T2R) - Windows undocumented functions documentation.
-- [https://geoffchappell.com/index.htm](https://t.co/vPAYFlQeLz) - Windows undocumented stuff's documentation.
-- [https://github.com/zodiacon/windowsinternals…](https://t.co/EvGuHrl4NV) - Windows Internals Book 7th edition Tools
-- https://doxygen.reactos.org/index.html - Full source code of reactos (open source reimplementation of windows)
-- [https://codemachine.com/articles/kernel_structures.html…](https://t.co/JbXx3XTZx0) - Explanation of key data structures used by device drivers, kernel and HAL.
-- [https://www.vergiliusproject.com](https://www.vergiliusproject.com/) - Take a look at more than 6000 Windows Undocumented structures.
-- [https://pastebin.com/NXxrYHp8](https://t.co/8T2ysBGtSG) - Resources For Advanced Windows Development.
-- [https://info-savvy.com/understanding-eprocess-structure/](https://info-savvy.com/understanding-eprocess-structure/) - Understanding the EPROCESS data structure\
-- [https://www.cs.miami.edu/home/burt/journal/NT/handle_table.html](https://www.cs.miami.edu/home/burt/journal/NT/handle_table.html) - The NT Handle Table
+- [Notes for Windows API programming](https://caiorss.github.io/C-Cpp-Notes/WindowsAPI-cpp.html)
+- [Windows undocumented functions documentation](http://undoc.airesoft.co.uk)
+- [Windows undocumented stuff's documentation](https://geoffchappell.com/index.htm)
+- [Windows Internals Book 7th edition Tools](https://github.com/zodiacon/windowsinternals)
+- [Full source code of ReactOS (open-source reimplementation of Windows)](https://doxygen.reactos.org/index.html)
+- [Explanation of key data structures used by device drivers, kernel, and HAL](https://codemachine.com/articles/kernel_structures.html)
+- [Take a look at more than 6000 Windows Undocumented structures](https://www.vergiliusproject.com/)
+- [Resources For Advanced Windows Development](https://pastebin.com/NXxrYHp8)
+- [Understanding the EPROCESS data structure](https://info-savvy.com/understanding-eprocess-structure/)
+- [The NT Handle Table](https://www.cs.miami.edu/home/burt/journal/NT/handle_table.html)
 - [Anatomy of the thread suspension mechanism in Windows.](https://ntopcode.wordpress.com/2018/01/16/anatomy-of-the-thread-suspension-mechanism-in-windows-windows-internals/)
 - [Automatically generated diff of Windows structures](http://terminus.rewolf.pl/terminus/)
 - [Thread Scheduling Windows](https://www.i.u-tokyo.ac.jp/edu/training/ss/lecture/new-documents/Lectures/03-ThreadScheduling/ThreadScheduling.pdf) 
@@ -137,11 +137,11 @@ If you want to get into Windows Research, then you need to learn Windows Interna
 
 ## Others
 
-- [https://www.msreverseengineering.com/blog/2014/6/23/compiler-optimizations-for-reverse-engineers](https://www.msreverseengineering.com/blog/2014/6/23/compiler-optimizations-for-reverse-engineers) - Compiler Optimizations for Reverse Engineers.
-- [https://versprite.com/blog/security-research/reverse-engineering-undocumented-structures/](https://versprite.com/blog/security-research/reverse-engineering-undocumented-structures/) - Reversing Stories: Updating the Undocumented ESTROBJ and STROBJ Structures for Windows 10 x64.
-- [https://posts.specterops.io/methodology-for-static-reverse-engineering-of-windows-kernel-drivers-3115b2efed83](https://posts.specterops.io/methodology-for-static-reverse-engineering-of-windows-kernel-drivers-3115b2efed83) - Methodology for static Reverse Engineering of Windows Kernel Drivers.
-- [https://unit42.paloaltonetworks.com/what-i-learned-from-reverse-engineering-windows-containers/](https://unit42.paloaltonetworks.com/what-i-learned-from-reverse-engineering-windows-containers/) - What I have learned from Reverse Engineering Windows Containers.
-- [https://alice.climent-pommeret.red/posts/a-syscall-journey-in-the-windows-kernel/](https://alice.climent-pommeret.red/posts/a-syscall-journey-in-the-windows-kernel/) - A Syscall Journey in the Windows Kernel
+- [Compiler Optimizations for Reverse Engineers.](https://www.msreverseengineering.com/blog/2014/6/23/compiler-optimizations-for-reverse-engineers)
+- [Reversing Stories: Updating the Undocumented ESTROBJ and STROBJ Structures for Windows 10 x64.](https://versprite.com/blog/security-research/reverse-engineering-undocumented-structures/)
+- [Methodology for Static Reverse Engineering of Windows Kernel Drivers.](https://posts.specterops.io/methodology-for-static-reverse-engineering-of-windows-kernel-drivers-3115b2efed83)
+- [What I Have Learned from Reverse Engineering Windows Containers.](https://unit42.paloaltonetworks.com/what-i-learned-from-reverse-engineering-windows-containers/)
+- [A Syscall Journey in the Windows Kernel.](https://alice.climent-pommeret.red/posts/a-syscall-journey-in-the-windows-kernel/)
 
 ## Symbolic Execution
 - https://sat-smt.codes/SAT_SMT_by_example.pdf
