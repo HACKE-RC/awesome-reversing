@@ -107,7 +107,7 @@ If you want to get into Windows Research, then you need to learn Windows Interna
 - https://www.youtube.com/watch?v=4AkzIbmI3q4&feature=emb_title - Windows Process Internals.
 - https://samsclass.info/140/lec/Excerpted-PRE07_Solomon.pdf - Windows Internals Overview.
 - https://vimeo.com/49347561 - Intro to Windows Internals.
-- [https://installsetupconfig.com/win32programming/…](https://t.co/193gozDCgY) - Win32 programming with code examples.
+- [Win32 programming with code examples](https://installsetupconfig.com/win32programming)
 - [https://caiorss.github.io/C-Cpp-Notes/WindowsAPI-cpp.html…](https://t.co/K5gcQZ8dUZ) - Notes for Windows API programming.
 - [http://undoc.airesoft.co.uk](https://t.co/LhHmRJ4T2R) - Windows undocumented functions documentation.
 - [https://geoffchappell.com/index.htm](https://t.co/vPAYFlQeLz) - Windows undocumented stuff's documentation.
@@ -118,11 +118,11 @@ If you want to get into Windows Research, then you need to learn Windows Interna
 - [https://pastebin.com/NXxrYHp8](https://t.co/8T2ysBGtSG) - Resources For Advanced Windows Development.
 - [https://info-savvy.com/understanding-eprocess-structure/](https://info-savvy.com/understanding-eprocess-structure/) - Understanding the EPROCESS data structure\
 - [https://www.cs.miami.edu/home/burt/journal/NT/handle_table.html](https://www.cs.miami.edu/home/burt/journal/NT/handle_table.html) - The NT Handle Table
-- [https://ntopcode.wordpress.com/2018/01/16/anatomy-of-the-thread-suspension-mechanism-in-windows-windows-internals/](https://ntopcode.wordpress.com/2018/01/16/anatomy-of-the-thread-suspension-mechanism-in-windows-windows-internals/) - Anatomy of the thread suspension mechanism in Windows.
-- [http://terminus.rewolf.pl/terminus/](http://terminus.rewolf.pl/terminus/) - Automatically generated diff of Windows structures
-- [https://www.i.u-tokyo.ac.jp/edu/training/ss/lecture/new-documents/Lectures/03-ThreadScheduling/ThreadScheduling.pdf](https://www.i.u-tokyo.ac.jp/edu/training/ss/lecture/new-documents/Lectures/03-ThreadScheduling/ThreadScheduling.pdf) - Thread Scheduling Windows
-- [https://codemachine.com/articles/kernel_callback_functions.html](https://codemachine.com/articles/kernel_callback_functions.html) - Kernel Callback Functions
-- http://likeagod.revers.engineering - decompilation of NT API functions.
+- [Anatomy of the thread suspension mechanism in Windows.](https://ntopcode.wordpress.com/2018/01/16/anatomy-of-the-thread-suspension-mechanism-in-windows-windows-internals/)
+- [Automatically generated diff of Windows structures](http://terminus.rewolf.pl/terminus/)
+- [Thread Scheduling Windows](https://www.i.u-tokyo.ac.jp/edu/training/ss/lecture/new-documents/Lectures/03-ThreadScheduling/ThreadScheduling.pdf) 
+- [Kernel Callback Functions](https://codemachine.com/articles/kernel_callback_functions.html)
+- [Decompilation of NT API functions](http://likeagod.revers.engineering)
 
 ## Great blogs on Windows Internals
 
@@ -145,4 +145,5 @@ If you want to get into Windows Research, then you need to learn Windows Interna
 
 ## Symbolic Execution
 - https://sat-smt.codes/SAT_SMT_by_example.pdf
-- [Youtube video covering the basics of z3](https://www.youtube.com/watch?v=kZd1Hi0ZBYc)
+- [Youtube video covering the basics of z3](https://www.youtube.com/watch?v=kZd1Hi0ZBYc)\
+- [Learn z3](https://github.com/ViRb3/z3-python-ctf)
