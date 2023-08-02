@@ -48,7 +48,7 @@ I have wrote a blog on this topic, [here](https://de-engineer.github.io/Understa
 - [https://pages.cs.wisc.edu/~remzi/OSTEP/](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 ## Getting started
-
+- [Roadmap for RE](https://wiki.bi0s.in/reversing/roadmap)
 - [https://www.begin.re](https://www.begin.re/)
 - [https://artik.blue/reversing](https://artik.blue/reversing)
 - [https://legend.octopuslabs.io/sample-page.html](https://legend.octopuslabs.io/sample-page.html)
