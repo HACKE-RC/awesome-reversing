@@ -49,6 +49,7 @@ I have wrote a blog on this topic, [here](https://de-engineer.github.io/Understa
 
 ## Getting started
 - [Roadmap for RE](https://wiki.bi0s.in/reversing/roadmap)
+- [COMPSCI 390R - Reverse Engineering & Vulnerability Analysis](https://pwn.umasscybersec.org/lectures/index.html)
 - [https://www.begin.re](https://www.begin.re/)
 - [https://artik.blue/reversing](https://artik.blue/reversing)
 - [https://legend.octopuslabs.io/sample-page.html](https://legend.octopuslabs.io/sample-page.html)
