@@ -1,4 +1,4 @@
-# Resource Engineering Resources ⚡
+![image](https://github.com/HACKE-RC/awesome-reversing/assets/60568652/a4ac8d9d-61cc-4bda-bc9e-7d6964e47718)# Resource Engineering Resources ⚡
 - [Assembly](#assembly)
   * [Linux specific](#linux-specific)
   * [Windows specific](#windows-specific)
@@ -146,5 +146,6 @@ If you want to get into Windows Research, then you need to learn Windows Interna
 
 ## Symbolic Execution
 - https://sat-smt.codes/SAT_SMT_by_example.pdf
-- [Youtube video covering the basics of z3](https://www.youtube.com/watch?v=kZd1Hi0ZBYc)\
+- [Youtube video covering the basics of z3](https://www.youtube.com/watch?v=kZd1Hi0ZBYc)
 - [Learn z3](https://github.com/ViRb3/z3-python-ctf)
+- [Course on Symbolic Analysis](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+RE3201_symexec+2021_V1/course/]
