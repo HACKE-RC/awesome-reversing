@@ -1,4 +1,4 @@
-![image](https://github.com/HACKE-RC/awesome-reversing/assets/60568652/a4ac8d9d-61cc-4bda-bc9e-7d6964e47718)# Resource Engineering Resources ⚡
+# Resource Engineering Resources ⚡
 - [Assembly](#assembly)
   * [Linux specific](#linux-specific)
   * [Windows specific](#windows-specific)
