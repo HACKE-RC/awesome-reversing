@@ -145,6 +145,7 @@ If you want to get into Windows Research, then you need to learn Windows Interna
 - [A Syscall Journey in the Windows Kernel.](https://alice.climent-pommeret.red/posts/a-syscall-journey-in-the-windows-kernel/)
 
 ## Symbolic Execution
+- [Video lecture on Symbolic Execution by MIT](https://www.youtube.com/watch?v=yRVZPvHYHzw)
 - [Video lectures on Symbolic Execution](https://pwn.umasscybersec.org/lectures/index.html)
 - [Youtube video covering the basics of z3](https://www.youtube.com/watch?v=kZd1Hi0ZBYc)
 - [Learn z3](https://github.com/ViRb3/z3-python-ctf)
