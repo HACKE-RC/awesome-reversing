@@ -1,4 +1,4 @@
-# Resource Engineering Resources ⚡
+# Reverse Engineering Resources ⚡
 - [Assembly](#assembly)
   * [Linux specific](#linux-specific)
   * [Windows specific](#windows-specific)
