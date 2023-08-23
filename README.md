@@ -1,4 +1,7 @@
 # Reverse Engineering Resources ⚡
+Highest quality resources to learn Reverse Engineering from start to end!
+
+# Table of contents
 - [Assembly](#assembly)
   * [Linux specific](#linux-specific)
   * [Windows specific](#windows-specific)
