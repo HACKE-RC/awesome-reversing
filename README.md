@@ -31,6 +31,7 @@ Highest quality resources to learn Reverse Engineering from start to end!
 - [https://sonictk.github.io/asm_tutorial/](https://sonictk.github.io/asm_tutorial/)
 
 ### Miscellaneous
+- [Learn how CPUs work](https://cpu.land)
 - [https://www.felixcloutier.com/x86/index.html](https://www.felixcloutier.com/x86/index.html)
 - [https://cs.lmu.edu/~ray/notes/x86assembly/](https://cs.lmu.edu/~ray/notes/x86assembly/)
 - [https://godbolt.org](https://godbolt.org/)
