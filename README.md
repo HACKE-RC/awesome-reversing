@@ -1,9 +1,7 @@
 # Reverse Engineering Resources ⚡
 Highest quality resources to learn Reverse Engineering from start to end!
 
-<img src="https://wiki.bi0s.in/reversing/imgs/re.png" width="500px">
-
-[click to see high res version](https://wiki.bi0s.in/reversing/roadmap)
+[Roadmap](https://wiki.bi0s.in/reversing/roadmap)
 
 # Table of contents
 - [Assembly](#assembly)
