@@ -143,7 +143,7 @@ If you want to get into Windows Research, then you need to learn Windows Interna
 - [https://googleprojectzero.blogspot.com](https://googleprojectzero.blogspot.com/)
 
 ## Others
-
+- [GuidedHacking](https://guidedhacking.com)
 - [Compiler Optimizations for Reverse Engineers.](https://www.msreverseengineering.com/blog/2014/6/23/compiler-optimizations-for-reverse-engineers)
 - [Reversing Stories: Updating the Undocumented ESTROBJ and STROBJ Structures for Windows 10 x64.](https://versprite.com/blog/security-research/reverse-engineering-undocumented-structures/)
 - [Methodology for Static Reverse Engineering of Windows Kernel Drivers.](https://posts.specterops.io/methodology-for-static-reverse-engineering-of-windows-kernel-drivers-3115b2efed83)
