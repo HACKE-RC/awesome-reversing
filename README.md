@@ -151,6 +151,7 @@ If you want to get into Windows Research, then you need to learn Windows Interna
 - [A Syscall Journey in the Windows Kernel.](https://alice.climent-pommeret.red/posts/a-syscall-journey-in-the-windows-kernel/)
 
 ## Symbolic Execution
+- [Introduction to SMT Solvers - an overview of z3](https://de-engineer.github.io/SMT-Solvers/)
 - [Video lecture on Symbolic Execution by MIT](https://www.youtube.com/watch?v=yRVZPvHYHzw)
 - [Video lectures on Symbolic Execution](https://pwn.umasscybersec.org/lectures/index.html)
 - [Youtube video covering the basics of z3](https://www.youtube.com/watch?v=kZd1Hi0ZBYc)
