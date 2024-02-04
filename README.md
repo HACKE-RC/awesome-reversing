@@ -52,7 +52,7 @@ I have wrote a blog on this topic, [here](https://de-engineer.github.io/Understa
 - [https://www.youtube.com/playlist?list=PLmbPuZ0NsyGS8ef6zaHd2qYylzsHxL63x](https://www.youtube.com/playlist?list=PLmbPuZ0NsyGS8ef6zaHd2qYylzsHxL63x)
 - [https://www.youtube.com/playlist?list=PLgre7dUq8DGKbtnlMuJPvPYlvLdXOC9uh](https://www.youtube.com/playlist?list=PLgre7dUq8DGKbtnlMuJPvPYlvLdXOC9uh)
 - [https://pages.cs.wisc.edu/~remzi/OSTEP/](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-
+- [Operating Systems Course (Recommended)](https://www.youtube.com/playlist?list=PLunILarQwxnl0SZ2zsgyVjU9NDD_Rn-re)
 ## Getting started
 - [Roadmap for RE](https://wiki.bi0s.in/reversing/roadmap)
 - [COMPSCI 390R - Reverse Engineering & Vulnerability Analysis](https://pwn.umasscybersec.org/lectures/index.html)
