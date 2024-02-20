@@ -24,13 +24,13 @@ Highest quality resources to learn Reverse Engineering from start to end!
 
 ### Linux specific
 
-- [https://asmtutor.com](https://asmtutor.com/)
-- [https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/index.html](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/index.html)
+- [Assembly Tutorial](https://asmtutor.com/)
+- [Art of Assembly](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/index.html)
 
 ### Windows specific
 
 - [https://www.plantation-productions.com/Webster/www.artofasm.com/Windows/index.html](https://www.plantation-productions.com/Webster/www.artofasm.com/Windows/index.html)
-- [https://sonictk.github.io/asm_tutorial/](https://sonictk.github.io/asm_tutorial/)
+- [Assembly tutorial](https://sonictk.github.io/asm_tutorial/)
 
 ### Miscellaneous
 - [Learn how CPUs work](https://cpu.land)
