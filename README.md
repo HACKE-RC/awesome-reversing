@@ -49,6 +49,11 @@ I have wrote a blog on this topic, [here](https://de-engineer.github.io/Understa
 
 
 ## Operating System Internals
+If you want to read books to learn OS then you can go in this order:
+1. The Elements of Computer Science (TECS) & [Nand2Tetris](https://www.coursera.org/learn/build-a-computer)
+2. Operating Systems: Three Easy Pieces & [Lectures](https://www.youtube.com/watch?v=DcBa3dBBOtM&list=PLRJWiLCmxyxi2RCPVYfewxJIWJzc_colw)
+3. [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu)
+
 - [https://www.youtube.com/playlist?list=PLmbPuZ0NsyGS8ef6zaHd2qYylzsHxL63x](https://www.youtube.com/playlist?list=PLmbPuZ0NsyGS8ef6zaHd2qYylzsHxL63x)
 - [https://www.youtube.com/playlist?list=PLgre7dUq8DGKbtnlMuJPvPYlvLdXOC9uh](https://www.youtube.com/playlist?list=PLgre7dUq8DGKbtnlMuJPvPYlvLdXOC9uh)
 - [https://pages.cs.wisc.edu/~remzi/OSTEP/](https://pages.cs.wisc.edu/~remzi/OSTEP/)
