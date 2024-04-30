@@ -21,6 +21,7 @@ Highest quality resources to learn Reverse Engineering from start to end!
 - [Symbolic Execution](#symbolic-execution)
 
 ## Assembly
+My personal favourite assembly resource is the Chapter 3 in the [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu) book, but if you're not into books, you can check the following resources:
 
 ### Linux specific
 
