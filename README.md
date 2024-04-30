@@ -55,7 +55,7 @@ If you want to read books to learn OS then you can go in this order:
 2. Operating Systems: Three Easy Pieces & [Lectures](https://www.youtube.com/watch?v=DcBa3dBBOtM&list=PLRJWiLCmxyxi2RCPVYfewxJIWJzc_colw)
 3. [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu) & [Lectures](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22)
 
-    
+If you are not into books, you can check the following resources:    
 - [https://www.youtube.com/playlist?list=PLmbPuZ0NsyGS8ef6zaHd2qYylzsHxL63x](https://www.youtube.com/playlist?list=PLmbPuZ0NsyGS8ef6zaHd2qYylzsHxL63x)
 - [https://www.youtube.com/playlist?list=PLgre7dUq8DGKbtnlMuJPvPYlvLdXOC9uh](https://www.youtube.com/playlist?list=PLgre7dUq8DGKbtnlMuJPvPYlvLdXOC9uh)
 - [https://pages.cs.wisc.edu/~remzi/OSTEP/](https://pages.cs.wisc.edu/~remzi/OSTEP/)
