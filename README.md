@@ -156,6 +156,7 @@ If you want to get into Windows Research, then you need to learn Windows Interna
 - [Methodology for Static Reverse Engineering of Windows Kernel Drivers.](https://posts.specterops.io/methodology-for-static-reverse-engineering-of-windows-kernel-drivers-3115b2efed83)
 - [What I Have Learned from Reverse Engineering Windows Containers.](https://unit42.paloaltonetworks.com/what-i-learned-from-reverse-engineering-windows-containers/)
 - [A Syscall Journey in the Windows Kernel.](https://alice.climent-pommeret.red/posts/a-syscall-journey-in-the-windows-kernel/)
+- [Reversing with HyperDbg (Dbg3301) - OpenSecurityTraining](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kF1f143wlw8ujlH2A45nZY)
 
 ## Symbolic Execution
 - [Introduction to SMT Solvers - an overview of z3](https://de-engineer.github.io/SMT-Solvers/)
