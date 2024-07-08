@@ -47,6 +47,7 @@ I have wrote a blog on this topic, [here](https://de-engineer.github.io/Understa
 - [http://brokenthorn.com/Resources/OSDev1.html](http://brokenthorn.com/Resources/OSDev1.html)
 - [https://raw.githubusercontent.com/tuhdo/os01/master/Operating_Systems_From_0_to_1.pdf](ttps://raw.githubusercontent.com/tuhdo/os01/master/Operating_Systems_From_0_to_1.pdf)
 - [https://cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf](https://cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
+- [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
 
 
 ## Operating System Internals
