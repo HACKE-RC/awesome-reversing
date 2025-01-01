@@ -40,16 +40,6 @@ My personal favourite assembly resource is the Chapter 3 in the [Computer System
 - [https://godbolt.org](https://godbolt.org/)
 - [https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1/about](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1/about)
 
-## Assembly Projects
-
-After learning assembly, you can try some projects like making a bootloader or a whole simple Operating System.
-I have wrote a blog on this topic, [here](https://de-engineer.github.io/Understanding-booting-process-and-writing-own-os/).
-- [http://brokenthorn.com/Resources/OSDev1.html](http://brokenthorn.com/Resources/OSDev1.html)
-- [https://raw.githubusercontent.com/tuhdo/os01/master/Operating_Systems_From_0_to_1.pdf](ttps://raw.githubusercontent.com/tuhdo/os01/master/Operating_Systems_From_0_to_1.pdf)
-- [https://cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf](https://cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
-- [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
-
-
 ## Operating System Internals
 If you want to read books to learn OS then you can go in this order:
 1. The Elements of Computer Science (TECS) & [Nand2Tetris (Lectures)](https://www.coursera.org/learn/build-a-computer)
@@ -62,6 +52,18 @@ If you are not into books, you can check the following resources:
 - [https://www.youtube.com/playlist?list=PLgre7dUq8DGKbtnlMuJPvPYlvLdXOC9uh](https://www.youtube.com/playlist?list=PLgre7dUq8DGKbtnlMuJPvPYlvLdXOC9uh)
 - [https://pages.cs.wisc.edu/~remzi/OSTEP/](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [Operating Systems Course (Recommended)](https://www.youtube.com/playlist?list=PLunILarQwxnl0SZ2zsgyVjU9NDD_Rn-re)
+
+## Assembly Projects
+
+After learning assembly, you can try some projects like making a bootloader or a whole simple Operating System.
+I have wrote a blog on this topic, [here](https://de-engineer.github.io/Understanding-booting-process-and-writing-own-os/).
+- [http://brokenthorn.com/Resources/OSDev1.html](http://brokenthorn.com/Resources/OSDev1.html)
+- [https://raw.githubusercontent.com/tuhdo/os01/master/Operating_Systems_From_0_to_1.pdf](ttps://raw.githubusercontent.com/tuhdo/os01/master/Operating_Systems_From_0_to_1.pdf)
+- [https://cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf](https://cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
+- [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
+
+
+
 ## Getting started
 - [Roadmap for RE](https://wiki.bi0s.in/reversing/roadmap)
 - [COMPSCI 390R - Reverse Engineering & Vulnerability Analysis](https://pwn.umasscybersec.org/lectures/index.html)
