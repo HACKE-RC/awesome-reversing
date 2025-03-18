@@ -63,6 +63,7 @@ If you are not into books, you can check the following resources:
 - [https://pages.cs.wisc.edu/~remzi/OSTEP/](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [Operating Systems Course (Recommended)](https://www.youtube.com/playlist?list=PLunILarQwxnl0SZ2zsgyVjU9NDD_Rn-re)
 ## Getting started
+- [Free crackmes](https://crackmy.app)
 - [Roadmap for RE](https://wiki.bi0s.in/reversing/roadmap)
 - [COMPSCI 390R - Reverse Engineering & Vulnerability Analysis](https://pwn.umasscybersec.org/lectures/index.html)
 - [https://www.begin.re](https://www.begin.re/)
