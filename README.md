@@ -21,6 +21,9 @@ Highest quality resources to learn Reverse Engineering from start to end!
 - [Symbolic Execution](#symbolic-execution)
 
 ## Assembly
+
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI agent monitoring dashboard for OpenClaw. Tracks Gateway status, sessions, token usage & trends with Vue 3 + ECharts.
+
 My personal favourite assembly resource is the Chapter 3 in the [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu) book, but if you're not into books, you can check the following resources:
 
 ### Linux specific
