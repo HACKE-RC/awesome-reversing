@@ -78,6 +78,7 @@ If you are not into books, you can check the following resources:
 
 - [https://crackmes.one](https://crackmes.one/)
 - [http://reversing.kr/challenge.php](http://reversing.kr/challenge.php)
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation and a local privacy gateway.
 - [https://github.com/Maijin/radare2-workshop-2015/tree/master/IOLI-crackme](https://github.com/Maijin/radare2-workshop-2015/tree/master/IOLI-crackme)
 - [http://reversing.kr/challenge.php](http://reversing.kr/challenge.php)
 - [https://0x00sec.org/t/challenge-collection-reverse-engineering-and-crackme/3027](https://0x00sec.org/t/challenge-collection-reverse-engineering-and-crackme/3027)
