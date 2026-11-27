@@ -36,6 +36,7 @@ My personal favourite assembly resource is the Chapter 3 in the [Computer System
 ### Miscellaneous
 - [Learn how CPUs work](https://cpu.land)
 - [https://www.felixcloutier.com/x86/index.html](https://www.felixcloutier.com/x86/index.html)
+- [x86 Encoding Atlas](https://x86.d2a.org/) - Interactive x86-64 instruction encoding reference with editable bit fields and worked machine-code examples.
 - [https://cs.lmu.edu/~ray/notes/x86assembly/](https://cs.lmu.edu/~ray/notes/x86assembly/)
 - [https://godbolt.org](https://godbolt.org/)
 - [https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1/about](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch1001_x86-64_Asm+2021_v1/about)
